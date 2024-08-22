@@ -15,7 +15,3 @@ Este projeto é um gerenciador de participação em geral, podendo ser usado par
 3.  Execute o projeto:
    ```bash
    npm start
-
-4. Exemplos de como utilizar a aplicação, se necessário. Acesse o link abaixo.
-   ```bash
-   http://localhost:3000
